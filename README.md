@@ -4,7 +4,11 @@ This repository contains the code for our paper: Self-Defense: Optimal QIF Solut
 
 ## Dataset
 
-The datasets used are in folders: channel, channel_with_levels, new_scrap and the csv's on the top level
+The datasets tested are in folders: channel, channel_with_levels, new_scrap and the csv's on the top level
+
+The one actually used in the paper is /channel_with_levels/channel_with_levels.csv 
+From this file, we kept the sites stated in the Appendix of the paper. 
+
 
 
 ## Plots
